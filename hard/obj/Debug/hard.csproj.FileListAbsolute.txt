@@ -1,0 +1,10 @@
+C:\Users\ruzickat.04\source\repos\hard\hard\bin\Debug\hard.exe.config
+C:\Users\ruzickat.04\source\repos\hard\hard\bin\Debug\hard.exe
+C:\Users\ruzickat.04\source\repos\hard\hard\bin\Debug\hard.pdb
+C:\Users\ruzickat.04\source\repos\hard\hard\obj\Debug\hard.csprojAssemblyReference.cache
+C:\Users\ruzickat.04\source\repos\hard\hard\obj\Debug\hard.Form1.resources
+C:\Users\ruzickat.04\source\repos\hard\hard\obj\Debug\hard.Properties.Resources.resources
+C:\Users\ruzickat.04\source\repos\hard\hard\obj\Debug\hard.csproj.GenerateResource.cache
+C:\Users\ruzickat.04\source\repos\hard\hard\obj\Debug\hard.csproj.CoreCompileInputs.cache
+C:\Users\ruzickat.04\source\repos\hard\hard\obj\Debug\hard.exe
+C:\Users\ruzickat.04\source\repos\hard\hard\obj\Debug\hard.pdb
